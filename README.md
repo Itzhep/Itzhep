@@ -13,10 +13,8 @@ I'm Mahan Aasari, an Iranian Web Developer currently learning JavaScript. I'm al
 </p>
 
 
-### 📊 My Socials Stats
-
-![GitHub Followers](https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DItzhep&longCache=true)
-![Profile Views](https://komarev.com/ghpvc/?username=Itzhep&color=brightgreen)
+### 📊 My Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzhepa&layout=compact)
 
 ### 🚀 Latest Projects
 - InternetDownload-manager: [https://github.com/Itzhep/InternetDownload-manager/](#)

@@ -8,7 +8,7 @@ I'm Mahan Aasari, an Iranian Web Developer currently learning JavaScript. I'm al
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,docker,bash,html,css,php" alt="skills"/>
+    <img src="https://skillicons.dev/icons?i=git,python,docker,bash,html,css" alt="skills"/>
   </a>
 </p>
 
@@ -28,7 +28,7 @@ I'm Mahan Aasari, an Iranian Web Developer currently learning JavaScript. I'm al
 
 I'm currently focused on improving my skills in:
 
-- php
+- bash
 - English language
 
 Feel free to connect and join me on this learning journey! 🌟

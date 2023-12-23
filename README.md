@@ -14,7 +14,7 @@ I'm Mahan Aasari, an Iranian Web Developer currently learning JavaScript. I'm al
 
 
 ### 📊 My Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzhepa&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzhep&layout=compact)
 
 ### 🚀 Latest Projects
 - InternetDownload-manager: [https://github.com/Itzhep/InternetDownload-manager/](#)

@@ -15,3 +15,5 @@
 
 ### 📊 My Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itzhep&layout=compact)
+### My Social
+![Discord Members](https://img.shields.io/discord/1227960723196481646?color=red&label=Discord%20Members&logo=discord&style=for-the-badge)

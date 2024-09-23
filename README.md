@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Docker, mongoose, typescript**
+ 🌱 I’m currently learning **Golang**
 
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
